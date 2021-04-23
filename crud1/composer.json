@@ -1,0 +1,21 @@
+{
+    "name": "yepes/crud1",
+    "description": "Practica CRUD",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Jose Yepes",
+            "email": "joselitoyepes10@gmail.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    },
+    "require": {
+    }
+}
